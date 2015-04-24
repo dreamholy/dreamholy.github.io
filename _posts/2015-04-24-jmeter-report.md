@@ -2,7 +2,7 @@
 layout: post
 title:  "Jmeter  + PerfMon 压力测试小结"
 date:   2015-02-15 22:14:54
-categories: jekyll
+categories: 压力测试,Jmeter
 excerpt: jemter perfmon 压力测试 分布式
 ---
 
