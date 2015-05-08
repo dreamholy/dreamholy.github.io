@@ -11,7 +11,9 @@ excerpt: go golang go入门 go安装 windows
 
 #下载
 golang官方二进制分发包包括FreeBSD, Linux, Mac OS X (Snow Leopard/Lion),Windows等平台，包括32位、64位等版本。
+
 golang支持交叉编译，也就是说你在32位平台的机器上开发，可以编译生成64位平台上的可执行程序。
+
 `下载地址:` [http://code.google.com/p/go/downloads/list](http://code.google.com/p/go/downloads/list)
 
 #环境变量说明
